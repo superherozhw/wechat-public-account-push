@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oUYL66JU8voc5hmu696Mes1vU6rk',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'BTO7n-d019BXAbZVEzeagko1H5UugwdjZYeZ82ds6mI',
+      useTemplateId: 'zxAZfzBmTJQO8-haWfyGdszqWjINK-ZE-GZyFIll95I',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       // 我们在一起已经有xxxx天了的配置
 
@@ -32,7 +32,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'BTO7n-d019BXAbZVEzeagko1H5UugwdjZYeZ82ds6mI',
+  CALLBACK_TEMPLATE_ID: 'ZyJmLiE7neL31rqpNefdVfDPljHbWmgRYu0NaWtLnko',
 
   CALLBACK_USERS: [
     {
