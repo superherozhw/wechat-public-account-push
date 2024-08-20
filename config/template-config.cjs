@@ -6,9 +6,11 @@ const TEMPLATE_CONFIG = [
     desc: `
       **{{date.DATA}}**
 
-      华威来信~
-      
-      下个休息日：{{holidaytts.DATA}}
+      **在忙也不要忘记多喝水呦~**
+
+      华威来信，爱你爱你~
+
+      课表待补充！！！开学后汤圆会拥有一份专属的每日推送专属课表()
       
       ---
       
@@ -18,20 +20,15 @@ const TEMPLATE_CONFIG = [
       
       气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}}
       
-      风向: {{wind_direction.DATA}}
-      
-      风级: {{wind_scale.DATA}}
-      
       {{comprehensive_horoscope.DATA}}
       
       ---
       预防感冒提醒：{{ganmao.DATA}} 
       
       温馨提示：{{notice.DATA}} 
+
       
-      ---
       
-      {{poetry_title.DATA}} {{poetry_content.DATA}
     `
   },
   {
